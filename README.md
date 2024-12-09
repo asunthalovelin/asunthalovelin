@@ -1,7 +1,15 @@
-- 👋 Hi, I’m @asunthalovelin
-- 👀 I’m interested in getting a job
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data science projects
+Self Introduction
+🚀 Hi! I recently completed a bootcamp in Data Science Engineering. I am passionate about uncovering powerful insights and solving problems through data.
+
+📊 Skills & Knowledge
+Proficient in MS Office Suite, SQL(MySQL), Python, Tableau.
+Experience in Exploratory Data Analysis(EDA) using Python, Statistics for Machine Learning, and Supervised & Unsupervised Machine Learning.
+👩🏻‍🔬 What I'm Working On:
+Exploratory data analysis and hypothesis testing to derive actionable insights.
+Predictive analytics and segmentation to understand and forecast trends.
+Sentiment analysis and generative AI applications to explore innovative solutions.
+🌟 Let’s connect and build something amazing together!
+
 - 📫 How to reach me ... lovelinasuntha@gmail.com
 - 😄 Pronouns: she/her
 
