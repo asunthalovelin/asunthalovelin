@@ -1,5 +1,7 @@
 🚀 Hi! I recently completed a bootcamp in Data Science Engineering. I am passionate about uncovering powerful insights and solving problems through data.
 
+🌱 I'm open to work!
+
 📊 Skills & Knowledge
 - Proficient in MS Office Suite, SQL(MySQL), Python, Tableau.
 - Experienced in Exploratory Data Analysis(EDA) using Python, Statistics for Machine Learning, and Supervised & Unsupervised Machine Learning.
