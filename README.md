@@ -1,19 +1,83 @@
-🚀 Hi! I'm an early career professional in Data Science. I am passionate about uncovering powerful insights and solving problems through data.
+# Hi, I'm Asuntha 👋
 
-📊 Skills & Knowledge
-- Proficient in MS Office Suite, SQL(MySQL), Python, Tableau.
-- Experienced in Exploratory Data Analysis(EDA) using Python, Statistics for Machine Learning, and Supervised & Unsupervised Machine Learning.
+I'm a Data Science professional passionate about Machine Learning, Predictive Analytics, Statistics, and AI. I enjoy solving real-world business problems using data and building intelligent systems that create measurable impact.
 
-👩🏻‍🔬 What I'm Working On:
-- Exploratory data analysis and hypothesis testing to derive actionable insights.
-- Predictive analytics and segmentation to understand and forecast trends.
-- Sentiment analysis and generative AI applications to explore innovative solutions.
+## 🔬 Interests
 
-🌟 Let’s connect and build something amazing together!
-- 📫 How to reach me ... lovelinasuntha@gmail.com
+- Machine Learning
+- Predictive Analytics
+- Statistical Modeling
+- Data Analytics
+- Artificial Intelligence
+- LLM Applications
+- Forecasting
+- Data Visualization
+
+## 🛠 Tech Stack
+
+**Languages**
+- Python
+- SQL
+
+**Machine Learning**
+- Scikit-learn
+- Pandas
+- NumPy
+- SciPy
+- Statsmodels
+
+**Visualization**
+- Tableau
+- Power BI
+- Matplotlib
+- Seaborn
+- Streamlit
+
+**Databases**
+- PostgreSQL
+- MySQL
+
+**AI**
+- Google ADK
+- LangChain
+- LlamaIndex
+- Prompt Engineering
+
+**Tools**
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
+- AWS
+
+---
+
+## 📌 Featured Projects
+
+### 📊 Customer Segmentation
+- PCA
+- Clustering
+- RFM Analysis
+- Customer Insights
+
+### 🤖 AI Study Mood Shifter
+- Agentic AI
+- Google ADK
+- Multi-Agent Workflow
+- Personalized AI Coaching
 
 
-<!---
-asunthalovelin/asunthalovelin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🌱 Currently Learning
+
+- Retrieval-Augmented Generation (RAG)
+- LangGraph
+- LlamaIndex
+- MLOps
+- Time Series Forecasting
+
+---
+
+## 📫 Connect with me
+lovelinasuntha@gmail.com
