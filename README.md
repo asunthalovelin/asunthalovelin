@@ -1,6 +1,4 @@
-🚀 Hi! I recently completed a bootcamp in Data Science Engineering. I am passionate about uncovering powerful insights and solving problems through data.
-
-🌱 I'm currently working in a Data Science Team for a large NBFC in India!
+🚀 Hi! I'm an early career professional in Data Science. I am passionate about uncovering powerful insights and solving problems through data.
 
 📊 Skills & Knowledge
 - Proficient in MS Office Suite, SQL(MySQL), Python, Tableau.
